@@ -2,18 +2,18 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background: #f5f7fa;
+  background:white;
 }
 
 header {
-  background: #333;
-  color: #fff;
+  background: green;
+  color: blue;
   padding: 10px;
   text-align: center;
 }
 
 nav a {
-  color: #fff;
+  color: pink;
   margin: 0 10px;
   text-decoration: none;
 }
@@ -23,7 +23,7 @@ section {
 }
 
 h2 {
-  color: #333;
+  color: orange;
 }
 
 ul {
@@ -32,7 +32,7 @@ ul {
 }
 
 ul li {
-  background: #fff;
+  background:pink;
   margin: 5px 0;
   padding: 8px;
   border: 1px solid #ccc;
@@ -51,20 +51,20 @@ input, textarea {
 }
 
 button {
-  background: #333;
-  color: #fff;
+  background: orange;
+  color: red;
   padding: 10px;
   border: none;
   cursor: pointer;
 }
 
 button:hover {
-  background: #555;
+  background: violet;
 }
 
 footer {
-  background: #333;
-  color: #fff;
+  background:skyblue;
+  color: red;
   text-align: center;
   padding: 10px;
 }
